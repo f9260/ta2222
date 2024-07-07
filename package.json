@@ -16,7 +16,7 @@
 	"bugs": {
 		"url": "https://github.com/shuding/nextra-docs-template/issues"
 	},
-	"homepage": "https://github.com/shuding/nextra-docs-template#readme",
+	"homepage": "https://rehber.ve3.plus/",
 	"dependencies": {
 		"@chakra-ui/react": "^2.8.2",
 		"@emotion/react": "^11.11.4",
