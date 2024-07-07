@@ -1,4 +1,4 @@
-{
+{       "homepage" : "rehber.ve3.plus",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
